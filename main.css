@@ -5,6 +5,11 @@ div.img {
     width: 180px;
 }
 
+div.p1 {
+	margin: 15px;
+	padding: 15px;
+}
+
 div.img:hover {
     border: 1px solid #777;
 }
